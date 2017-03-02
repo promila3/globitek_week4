@@ -6,7 +6,8 @@ Time spent: **X** hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
-===? Still working on the project but pushing it in github for tonight. Thanks.
+
+# Still working on the project but pushing it in github for tonight. Thanks.
 
 1\. [x]  Required: Test for initial vulnerabilities
 
